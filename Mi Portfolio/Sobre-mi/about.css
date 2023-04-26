@@ -1,0 +1,23 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+
+body {
+    position: static;
+    align-items: center;
+    background: #251c27;
+    color: #251c27;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+  }
+
+  @font-face {
+    font-family:'titulos' ;
+    src: url(Fuentes/THEBOLDFONT.ttf);
+  }
